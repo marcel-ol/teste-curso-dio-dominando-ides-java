@@ -1,6 +1,6 @@
-package com.dio;
+package br.com.dio;
 
-import com.dio.model.Gato;
+import br.com.dio.model.Gato;
 
 public class PrimeiroPrograma {
 	
